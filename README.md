@@ -81,9 +81,3 @@ pip install nltk rouge-score numpy
     reference for researchers, students, or practitioners exploring LLM
     evaluation.
 
-------------------------------------------------------------------------
-
-## 📜 License
-
-This repository is shared for learning purposes. Please give credit if
-you use it in your own work.
