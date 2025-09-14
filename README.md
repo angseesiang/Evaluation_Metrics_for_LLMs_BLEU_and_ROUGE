@@ -44,8 +44,8 @@ demonstrations.
 1.  Clone this repository:
 
     ``` bash
-    git clone https://github.com/your-username/your-repo-name.git
-    cd your-repo-name
+    git clone https://github.com/angseesiang/Evaluation_Metrics_for_LLMs_BLEU_and_ROUGE.git
+    cd Evaluation_Metrics_for_LLMs_BLEU_and_ROUGE
     ```
 
 2.  Open the Jupyter Notebook:
